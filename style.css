@@ -1,0 +1,15 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.banner{
+    background-image: url(https://www.letsnurture.com/wp-content/uploads/2020/02/mern-banner-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 220px 0;
+}
+
+.card-box{
+    height:100% ;
+
+}
